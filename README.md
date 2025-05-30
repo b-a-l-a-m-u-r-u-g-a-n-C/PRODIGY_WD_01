@@ -1,4 +1,4 @@
-# 🍽️ Menu Web Application
+# Navigatiion Menu application
 
 A responsive and visually appealing **menu interface** built using **HTML**, **CSS**, and **JavaScript**. 
 
