@@ -6,10 +6,10 @@ A responsive and visually appealing **menu interface** built using **HTML**, **C
 
 ## 🎯 Features
 
-- 🧾 Dynamic menu with categories (e.g., breakfast, lunch, dinner)
-- 🔍 Filter menu items by category
+- 🧾 Dynamic Navigation menu (e.g., home, contact us, about)
+- 🔍 Menu nav chanes color on scroll
 - ✅ Responsive layout (mobile-friendly)
-- 📷 Images and descriptions for each item
+- 🚀 Fast navigation experience
 - 💡 Smooth user experience with clean UI
 
 ---
